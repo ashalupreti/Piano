@@ -43,4 +43,4 @@ Your contributions are always welcome! If you have any suggestions or bug fixes,
 
 ## License
 
-This project is licensed under the MIT License. Please refer to the [LICENSE](Piano/LICENSE.md) file for details.
+This project is licensed under the MIT License. Please refer to the [LICENSE](./LICENSE.md) file for details.
