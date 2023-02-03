@@ -43,3 +43,6 @@ Your contributions are always welcome! If you have any suggestions or bug fixes,
 ## License
 
 This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for details.
+theme:minima
+
+Check it out here: [Try Piano](https://ashalupreti.github.io/Piano/)
