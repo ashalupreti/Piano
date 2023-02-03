@@ -10,6 +10,7 @@ A virtual piano built with HTML, CSS, and JavaScript.
 ## Screenshots
 ![Piano Screenshot](https://user-images.githubusercontent.com/90265701/216534742-dd18b9f6-f241-42a6-8a5e-97d0519dfc2d.png)
 
+Check it out here: [Try Piano](https://ashalupreti.github.io/Piano/)
 
 ## Getting Started
 
@@ -43,6 +44,3 @@ Your contributions are always welcome! If you have any suggestions or bug fixes,
 ## License
 
 This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for details.
-theme:minima
-
-Check it out here: [Try Piano](https://ashalupreti.github.io/Piano/)
